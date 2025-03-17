@@ -10,5 +10,7 @@ A sleek and modern Furniture App UI built with Flutter to showcase a clean and r
 ✅ Responsive layout (compatible with all screen sizes)  
 
 ---
-![image alt](https://github.com/uditiparmar/News-App/blob/1b029f452f908e8dad455f4a92e30b26e6f44bac/e.png)
+
+## Project Screenshots
+![image alt](https://github.com/uditiparmar/Furniture-UI/blob/eda1f85e74b886a436f4f7fc4a747f008f19569e/Screenshot.png)
 
